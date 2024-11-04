@@ -27,10 +27,6 @@ const router = createBrowserRouter([
     path: "/home",
     element: <App />,
   },
-  {
-    path: "/Cacton12-github.io",
-    element: <App />,
-  },
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
