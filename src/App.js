@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import NavBar from "./Navbar";
 import Main from "./Main";
 import Footer from "./Footer";
